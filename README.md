@@ -2,9 +2,7 @@
 
 ### March 28, 2016
 
-A Basic Structure for Maven Projects
-
-Create an application which calculates the mortgage of a house given the principle, interest and term. The application should do the following steps:
+#### Create an application which calculates the mortgage of a house given the principle, interest and term. The application should do the following steps:
 
 Welcome the user to the application.
 Ask the user what the property ID is.
@@ -21,7 +19,7 @@ Ask the user if they would like to find out the mortgage of another home and if 
 Echo a farewell message to the user.
 Exit the application.
 
-### NOTE: 
+#### NOTE: 
 * To compare Strings you must use equals method or equalsIgnoreCase(). For example:
 if (input.equalsIgnoreCase("quit") || input.equalsIgnoreCase("q")) {... pg 70, Java24Hrs
 
