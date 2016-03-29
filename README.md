@@ -1,4 +1,4 @@
-#### Mortgage Calculator
+## Mortgage Calculator
 
 ### March 28, 2016
 
